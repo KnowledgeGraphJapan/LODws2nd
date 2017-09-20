@@ -5,4 +5,4 @@
 随時，情報を追記します．
 
 Apache Jena ハンズオン
-Javaのプログラムを作成してLODを効率的に処理してみよう　―超入門編―
+[Javaのプログラムを作成してLODを効率的に処理してみよう　―超入門編―](https://github.com/KnowledgeGraphJapan/LODws2nd/blob/master/ApacheJena%E3%83%8F%E3%83%B3%E3%82%BA%E3%82%AA%E3%83%B3.pdf)
