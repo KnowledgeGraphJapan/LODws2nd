@@ -7,7 +7,7 @@
 
 ## 1日目　講演会資料
 
-[生命科学とLOD―理研メタデータベースを利用したデータ利活用の実際] (https://github.com/KnowledgeGraphJapan/LODws2nd/blob/master/RIKENMetaDatabase_2.pdf) 　理化学研究所 　小林 紀郎
+[生命科学とLOD―理研メタデータベースを利用したデータ利活用の実際](https://github.com/KnowledgeGraphJapan/LODws2nd/blob/master/RIKENMetaDatabase_2.pdf) 　理化学研究所 　小林 紀郎
 
 
 
