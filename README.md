@@ -52,3 +52,20 @@ Windows編  http://tinyurl.com/fuseki-win10
 Mac OS編  http://tinyurl.com/fuseki-MacOSX
   
 Qiitaのサイトを参考にしてデータのロード  http://tinyurl.com/fuseki-intro
+
+---
+## Federateクエリのサンプル
+'''PREFIX bp: <http://data.lodosaka.jp/lodws/test/property/> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+
+SELECT ?s ?wd ?l
+WHERE {
+  ?s bp:参照 ?wd
+  SERVICE <https://query.wikidata.org/sparql>
+   { 
+     ?wd rdfs:label ?l.
+    FILTER(lang(?l)="en")
+   }
+}
+LIMIT 25'''
