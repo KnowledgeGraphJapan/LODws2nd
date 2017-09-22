@@ -55,10 +55,11 @@ Qiitaのサイトを参考にしてデータのロード  http://tinyurl.com/fus
 
 ---
 ## LODの作成ツールの紹介
-[説明資料](https://github.com/KnowledgeGraphJapan/LODws2nd/blob/master/LOD-WS-kobe-CSV2LOD.pdf)  　　
-　     
-■LOD2CSV  
-http://lodosaka.jp/tool/CSV2LOD/
+[説明資料](https://github.com/KnowledgeGraphJapan/LODws2nd/blob/master/LOD-WS-kobe-CSV2LOD.pdf)   
+  
+  
+■LOD2CSV  
+http://lodosaka.jp/tool/CSV2LOD/  
   
 ■なんでもリンク  
 http://link.lodosaka.jp/
