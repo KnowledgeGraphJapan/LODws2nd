@@ -61,7 +61,7 @@ PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 
 SELECT ?s ?wd ?l
 WHERE {
-  ?s bp:参照 ?wd
+  ?s bp:参照 ?wd .
   SERVICE <https://query.wikidata.org/sparql>
    { 
      ?wd rdfs:label ?l.
