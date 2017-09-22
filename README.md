@@ -30,6 +30,9 @@ Apache Jena ハンズオン
 - 「RDFデータベースの導入方法」のハンズオンでは，Javaで動作するFusekiというRDFデータベースの導入を行います．  
 そのため，あらかじめ，Javaのバージョン8以上をインストールされていると，スムーズに進めることができると思われます．
 
+Javaのダウンロード・インストール　https://java.com/ja/download/
+
+
 - 「Javaのプログラムを作成してLODを効率的に処理してみよう－超入門編－」のハンズオンでは，Apache JenaというJavaのライブラリを用いて解説をします．  
 基本的にスライドを用いて解説しますが，手元ので実際にプログラムを実行されたい方は，  
 　https://github.com/KnowledgeGraphJapan/Apache-Jena-Sample-Programs  
