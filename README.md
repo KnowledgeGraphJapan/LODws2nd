@@ -54,6 +54,15 @@ Mac OS編  http://tinyurl.com/fuseki-MacOSX
 Qiitaのサイトを参考にしてデータのロード  http://tinyurl.com/fuseki-intro
 
 ---
+## LODの作成ツールの紹介
+[説明資料](https://github.com/KnowledgeGraphJapan/LODws2nd/blob/master/LOD-WS-kobe-CSV2LOD.pdf)　　
+  
+■LOD2CSV  
+http://lodosaka.jp/tool/CSV2LOD/
+  
+■なんでもリンク  
+http://link.lodosaka.jp/
+
 ## Federateクエリのサンプル
 ```
 PREFIX bp: <http://data.lodosaka.jp/lodws/test/property/> 
