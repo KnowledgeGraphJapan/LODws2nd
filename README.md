@@ -13,6 +13,10 @@
 
 ## 2日目　ハンズオン資料
 
+SPARQLの基礎　[説明資料](https://github.com/KnowledgeGraphJapan/LODws2nd/blob/master/LOD-WS-kobe-SPARQL-v1.pdf)  
+→[ハンズオン情報共有ページ](https://github.com/KnowledgeGraphJapan/LODws2nd/wiki/%E3%83%8F%E3%83%B3%E3%82%BA%E3%82%AA%E3%83%B3%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3-LOD%E7%94%A8%E6%A4%9C%E7%B4%A2%E8%A8%80%E8%AA%9ESPARQL%E3%81%AE%E5%9F%BA%E7%A4%8E)
+
+
 Apache Jena ハンズオン
 [Javaのプログラムを作成してLODを効率的に処理してみよう　―超入門編―](https://github.com/KnowledgeGraphJapan/LODws2nd/blob/master/ApacheJena%E3%83%8F%E3%83%B3%E3%82%BA%E3%82%AA%E3%83%B3.pdf)　　理化学研究所 　小林 紀郎
 
