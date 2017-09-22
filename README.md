@@ -55,7 +55,8 @@ Qiitaのサイトを参考にしてデータのロード  http://tinyurl.com/fus
 
 ---
 ## Federateクエリのサンプル
-```PREFIX bp: <http://data.lodosaka.jp/lodws/test/property/> 
+```
+PREFIX bp: <http://data.lodosaka.jp/lodws/test/property/> 
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
 PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 
