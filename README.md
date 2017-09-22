@@ -42,12 +42,13 @@ Javaのダウンロード・インストール　https://java.com/ja/download/
 
 ## FUSEKIのインストール
 Qiitaのサイトを参考にしてインストール　　
-http://archive.apache.org/dist/jena/binaries/最新はhttp://tinyurl.com/Fuseki3-5-0SS0921
+http://archive.apache.org/dist/jena/binaries/  
+最新は  http://tinyurl.com/Fuseki3-5-0SS0921
 　　
-Windows編http://tinyurl.com/fuseki-win10　　
+Windows編  http://tinyurl.com/fuseki-win10　　
 　　
-Mac OS編http://tinyurl.com/fuseki-MacOSX　　
-　　
+Mac OS編  http://tinyurl.com/fuseki-MacOSX　　
+  
 Qiitaのサイトを参考にしてデータのロード　　
 http://tinyurl.com/fuseki-intro　　
 
